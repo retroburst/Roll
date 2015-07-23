@@ -43,7 +43,7 @@ public class PlayerController : MonoBehaviour
 	}
 
 	/// <summary>
-	/// Raises the trigger enter event.
+	/// Handles the trigger enter event.
 	/// </summary>
 	/// <param name="other">Other.</param>
 	private void OnTriggerEnter (Collider other)
